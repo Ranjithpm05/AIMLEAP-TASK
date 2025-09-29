@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "ng serve",
+    "start": "ng serve",
     "build": "ng build",
     "preview": "ng serve --configuration=production",
     "api": "echo \"Mock API is included in the frontend KanbanService. No separate API server is needed.\""
